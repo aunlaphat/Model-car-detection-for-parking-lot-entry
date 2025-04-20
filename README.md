@@ -20,7 +20,7 @@
 เพื่อประหยัดพื้นที่ repository และหลีกเลี่ยงข้อจำกัดของ GitHub ไฟล์ `.keras` ถูกแยกออกจาก repo
 
 📦 ดาวน์โหลดไฟล์ `.keras` ได้ที่นี่:  
-[➡️ ดาวน์โหลด model14_3.keras (Google Drive)]([https://drive.google.com/uc?id=YOUR_FILE_ID_HERE](https://drive.google.com/file/d/1IQjS56oYb1KypcXeeYDIv25eL-J3tDt_/view?usp=sharing))
+[➡️ ดาวน์โหลด model14_3.keras (Google Drive)]([https://drive.google.com/file/d/1IQjS56oYb1KypcXeeYDIv25eL-J3tDt_/view?usp=sharing])
 
 **เมื่อดาวน์โหลดเสร็จ:** ให้นำไฟล์ `model14_3.keras` ไปวางไว้ในโฟลเดอร์ root ของโปรเจกต์นี้
 
