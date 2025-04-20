@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>BYD-Atto-3_1_PNG.rf.4b46db4f0817890c423603ed56a88dad.jpg</filename>
+	<path>BYD-Atto-3_1_PNG.rf.4b46db4f0817890c423603ed56a88dad.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>216</xmax>
+			<ymin>62</ymin>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>BYD-Atto-3</tag>
+		</tags>
+	</metadata>
+</annotation>

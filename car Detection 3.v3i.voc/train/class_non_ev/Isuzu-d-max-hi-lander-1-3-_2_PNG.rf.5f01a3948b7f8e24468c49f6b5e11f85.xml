@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Isuzu-d-max-hi-lander-1-3-_2_PNG.rf.5f01a3948b7f8e24468c49f6b5e11f85.jpg</filename>
+	<path>Isuzu-d-max-hi-lander-1-3-_2_PNG.rf.5f01a3948b7f8e24468c49f6b5e11f85.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>195</xmax>
+			<ymin>52</ymin>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Isuzu-d-max-hi-lander-1.3</tag>
+		</tags>
+	</metadata>
+</annotation>

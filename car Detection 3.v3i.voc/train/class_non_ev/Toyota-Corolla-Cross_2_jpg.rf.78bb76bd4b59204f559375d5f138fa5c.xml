@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Toyota-Corolla-Cross_2_jpg.rf.78bb76bd4b59204f559375d5f138fa5c.jpg</filename>
+	<path>Toyota-Corolla-Cross_2_jpg.rf.78bb76bd4b59204f559375d5f138fa5c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>197</xmax>
+			<ymin>77</ymin>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Toyota-Corolla-Cross</tag>
+		</tags>
+	</metadata>
+</annotation>

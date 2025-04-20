@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Mitsubishi-Triton_3_jpg.rf.07fc72b8eebfded6db87b8d4f07e9ec1.jpg</filename>
+	<path>Mitsubishi-Triton_3_jpg.rf.07fc72b8eebfded6db87b8d4f07e9ec1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>9</xmin>
+			<xmax>216</xmax>
+			<ymin>55</ymin>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Mitsubishi-Triton</tag>
+		</tags>
+	</metadata>
+</annotation>

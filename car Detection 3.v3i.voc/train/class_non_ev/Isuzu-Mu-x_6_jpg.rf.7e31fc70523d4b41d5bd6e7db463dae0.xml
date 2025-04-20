@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Isuzu-Mu-x_6_jpg.rf.7e31fc70523d4b41d5bd6e7db463dae0.jpg</filename>
+	<path>Isuzu-Mu-x_6_jpg.rf.7e31fc70523d4b41d5bd6e7db463dae0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>198</xmax>
+			<ymin>57</ymin>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Isuzu-Mu-x</tag>
+		</tags>
+	</metadata>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>MG-4_2_jpg.rf.2fb2dc4f6c1369c846846f9a8a46641f.jpg</filename>
+	<path>MG-4_2_jpg.rf.2fb2dc4f6c1369c846846f9a8a46641f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>43</xmin>
+			<xmax>212</xmax>
+			<ymin>51</ymin>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>MG-4</tag>
+		</tags>
+	</metadata>
+</annotation>

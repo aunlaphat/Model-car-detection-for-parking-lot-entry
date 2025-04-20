@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Ford-Ranger-Rapter-3-0-_10_JPG.rf.de4e97b44ae5069d34055a547c25187d.jpg</filename>
+	<path>Ford-Ranger-Rapter-3-0-_10_JPG.rf.de4e97b44ae5069d34055a547c25187d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>200</xmax>
+			<ymin>53</ymin>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Ford-Ranger-Rapter-3.0</tag>
+		</tags>
+	</metadata>
+</annotation>

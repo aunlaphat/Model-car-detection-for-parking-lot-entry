@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Nissan-Almera_1_jpg.rf.26c8e24a8e7ffdd91f663e31dec71294.jpg</filename>
+	<path>Nissan-Almera_1_jpg.rf.26c8e24a8e7ffdd91f663e31dec71294.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>207</xmax>
+			<ymin>64</ymin>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Nissan-Almera</tag>
+		</tags>
+	</metadata>
+</annotation>

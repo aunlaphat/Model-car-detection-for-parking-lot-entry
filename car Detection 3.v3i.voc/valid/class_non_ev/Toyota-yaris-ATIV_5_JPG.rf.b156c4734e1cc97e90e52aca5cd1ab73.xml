@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Toyota-yaris-ATIV_5_JPG.rf.b156c4734e1cc97e90e52aca5cd1ab73.jpg</filename>
+	<path>Toyota-yaris-ATIV_5_JPG.rf.b156c4734e1cc97e90e52aca5cd1ab73.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>180</xmax>
+			<ymin>79</ymin>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Toyota-yaris-ATIV</tag>
+		</tags>
+	</metadata>
+</annotation>

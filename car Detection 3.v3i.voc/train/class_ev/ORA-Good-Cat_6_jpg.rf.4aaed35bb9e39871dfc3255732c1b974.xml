@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>ORA-Good-Cat_6_jpg.rf.4aaed35bb9e39871dfc3255732c1b974.jpg</filename>
+	<path>ORA-Good-Cat_6_jpg.rf.4aaed35bb9e39871dfc3255732c1b974.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>205</xmax>
+			<ymin>86</ymin>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>ORA-Good-Cat</tag>
+		</tags>
+	</metadata>
+</annotation>

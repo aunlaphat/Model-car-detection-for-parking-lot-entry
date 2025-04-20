@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Tesla-Y_3_jpg.rf.259d69c3753e514cb733053f3b524473.jpg</filename>
+	<path>Tesla-Y_3_jpg.rf.259d69c3753e514cb733053f3b524473.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>212</xmax>
+			<ymin>84</ymin>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Tesla-Y</tag>
+		</tags>
+	</metadata>
+</annotation>

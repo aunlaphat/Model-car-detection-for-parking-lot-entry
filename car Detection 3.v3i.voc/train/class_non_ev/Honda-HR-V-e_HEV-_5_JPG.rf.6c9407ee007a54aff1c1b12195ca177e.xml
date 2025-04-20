@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Honda-HR-V-e_HEV-_5_JPG.rf.6c9407ee007a54aff1c1b12195ca177e.jpg</filename>
+	<path>Honda-HR-V-e_HEV-_5_JPG.rf.6c9407ee007a54aff1c1b12195ca177e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>213</xmax>
+			<ymin>95</ymin>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Honda-HR-V-e_HEV</tag>
+		</tags>
+	</metadata>
+</annotation>

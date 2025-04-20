@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>BYD-seal-Performance-_9_png.rf.05c8ee03a054abfd1611204377eb9212.jpg</filename>
+	<path>BYD-seal-Performance-_9_png.rf.05c8ee03a054abfd1611204377eb9212.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>4</xmin>
+			<xmax>212</xmax>
+			<ymin>46</ymin>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>BYD-sealPerformance</tag>
+		</tags>
+	</metadata>
+</annotation>

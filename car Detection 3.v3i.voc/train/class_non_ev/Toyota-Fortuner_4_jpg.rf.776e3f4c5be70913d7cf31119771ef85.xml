@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Toyota-Fortuner_4_jpg.rf.776e3f4c5be70913d7cf31119771ef85.jpg</filename>
+	<path>Toyota-Fortuner_4_jpg.rf.776e3f4c5be70913d7cf31119771ef85.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>184</xmax>
+			<ymin>68</ymin>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Toyota-Fortuner</tag>
+		</tags>
+	</metadata>
+</annotation>

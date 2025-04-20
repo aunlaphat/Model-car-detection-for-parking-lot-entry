@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>MG-ZS-EV-Standard-_4_jpg.rf.7bf0f0bbd3d141a142e6425cc8ae3fec.jpg</filename>
+	<path>MG-ZS-EV-Standard-_4_jpg.rf.7bf0f0bbd3d141a142e6425cc8ae3fec.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>211</xmax>
+			<ymin>68</ymin>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>MG-ZS-EVStandard</tag>
+		</tags>
+	</metadata>
+</annotation>

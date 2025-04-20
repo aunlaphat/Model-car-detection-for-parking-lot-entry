@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>BYD-Dolphin_10_jpg.rf.8e41a7e19f8cb9b23a5387679a10e595.jpg</filename>
+	<path>BYD-Dolphin_10_jpg.rf.8e41a7e19f8cb9b23a5387679a10e595.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>205</xmax>
+			<ymin>65</ymin>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>BYD-Dolphin</tag>
+		</tags>
+	</metadata>
+</annotation>

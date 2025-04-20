@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>Toyota-hilus-revo-prerunner-_4_JPG.rf.eb75a6da98808a6b2e9069a546eacd05.jpg</filename>
+	<path>Toyota-hilus-revo-prerunner-_4_JPG.rf.eb75a6da98808a6b2e9069a546eacd05.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NON-EV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>194</xmax>
+			<ymin>74</ymin>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Toyota-hilus-revo-prerunner</tag>
+		</tags>
+	</metadata>
+</annotation>
