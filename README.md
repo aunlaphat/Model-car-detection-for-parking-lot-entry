@@ -28,7 +28,7 @@
 
 ## 🛠️ วิธีรันโปรเจกต์
 
-### 📦 ติดตั้ง Python และไลบรารีที่จำเป็น
+### 📥 ติดตั้ง Python และไลบรารีที่จำเป็น
 
 ```bash
 pip install tensorflow flask numpy matplotlib seaborn scikit-learn
